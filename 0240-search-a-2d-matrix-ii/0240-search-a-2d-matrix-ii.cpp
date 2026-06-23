@@ -1,3 +1,5 @@
+// start from any corner not only from this corner
+
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
