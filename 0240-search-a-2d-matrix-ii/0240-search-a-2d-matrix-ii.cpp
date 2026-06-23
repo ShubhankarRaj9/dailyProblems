@@ -1,4 +1,4 @@
-// start from any corner not only from this corner
+// start from any anti-diagonal corner 
 
 class Solution {
 public:
