@@ -1,16 +1,21 @@
 class Solution {
 public:
     int findElements(vector<vector<int>>& matrix, int val){
-        int cnt = 0;
-        for(auto it: matrix){
-            for(int x: it){
-                if(x<=val){
-                    cnt++;
-                }
-            }
+    int n = matrix.size();
+    int cnt = 0;
+    int row = n-1, col = 0; 
+    
+    while(row >= 0 && col < n){
+         if(matrix[row][col] <= val){
+            cnt += (row + 1);
+            col++; 
         }
-        return cnt;
+        else{
+            row--;
+        }
     }
+    return cnt;
+}
     int kthSmallest(vector<vector<int>>& matrix, int k) {
         int n = matrix.size();
         int m = matrix[0].size();
