@@ -38,4 +38,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
