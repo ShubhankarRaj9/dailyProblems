@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0234-palindrome-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
