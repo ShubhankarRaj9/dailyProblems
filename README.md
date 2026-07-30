@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Linked List
 |  |
@@ -55,8 +56,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0039-combination-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
