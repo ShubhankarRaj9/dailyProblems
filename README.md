@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -72,14 +73,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Lifting
 |  |
