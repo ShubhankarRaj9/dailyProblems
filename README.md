@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0039-combination-sum) |
+| [0055-jump-game](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0547-number-of-provinces) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
