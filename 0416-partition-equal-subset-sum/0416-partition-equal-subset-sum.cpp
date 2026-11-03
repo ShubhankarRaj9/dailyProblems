@@ -2,12 +2,14 @@ class Solution {
 public:
     bool solve(vector<int>& a, int wt, int n) {
       bool t[n+1][wt+1];
+      // initialisation
       for(int i=0; i<n+1; i++){
         for(int j=0; j<wt+1; j++){
           if(i==0) t[i][j] = false;
           if(j==0) t[i][j] = true;
         }
       }
+      // subproblems
       for(int i=1; i<n+1; i++){
         for(int j=1; j<wt+1; j++){
           if(a[i-1]<= j){
@@ -18,6 +20,7 @@ public:
           }
         }
       }
+      // result
       return t[n][wt];
     } 
     bool canPartition(vector<int>& arr) {
