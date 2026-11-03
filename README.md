@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0416-partition-equal-subset-sum) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/1848-minimum-distance-to-the-target-element) |
 ## Binary Search
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0055-jump-game) |
+| [0416-partition-equal-subset-sum](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -169,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0055-jump-game) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
