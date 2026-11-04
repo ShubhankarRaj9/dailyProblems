@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0322-coin-change](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0416-partition-equal-subset-sum) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0055-jump-game) |
+| [0322-coin-change](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
@@ -174,9 +177,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0416-partition-equal-subset-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
