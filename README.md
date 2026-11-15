@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0743-network-delay-time](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0743-network-delay-time) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0743-network-delay-time](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0743-network-delay-time](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0743-network-delay-time) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0743-network-delay-time) |
 ## Greedy
 |  |
 | ------- |
@@ -211,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0583-delete-operation-for-two-strings) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ShubhankarRaj9/dailyProblems/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
